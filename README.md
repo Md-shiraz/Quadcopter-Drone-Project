@@ -48,8 +48,8 @@ Use the transmitter's configured controls and mode switch as verified in Mission
 | Radio transmitter | Mission Planner |
 |---|---|
 | <img src="assets/radio-transmitter.png" alt="Radio transmitter with two control sticks and display" width="240"> | <img src="assets/mission-planner.png" alt="Mission Planner ground-control software connected to the Pixhawk" width="360"> |
-| Assembled quadcopter | Outdoor flight test |
-| <img src="WhatsApp%20Image%202026-10-19%20at%2018.17.42.jpeg" alt="Assembled quadcopter showing its frame, motors, Pixhawk flight controller, GPS module, and receiver" width="240"> | <img src="quadcopter-flight-test.png" alt="Quadcopter in flight during an outdoor test" width="240"> |
+| Outdoor flight test | Assembled quadcopter |
+| <img src="quadcopter-flight-test.png" alt="Quadcopter in flight during an outdoor test" width="240"> | <img src="WhatsApp%20Image%202026-10-19%20at%2018.17.42.jpeg" alt="Assembled quadcopter showing its frame, motors, Pixhawk flight controller, GPS module, and receiver" width="240"> |
 
 ## Repository contents
 
